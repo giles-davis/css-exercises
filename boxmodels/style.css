@@ -1,0 +1,23 @@
+* {
+padding: 0;
+margin: 0;
+font-size: 50px;
+}
+
+.box-one {
+    background-color: aqua;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30 solid coral;
+    margin: 60px;
+}
+
+.box-two {
+    background-color: aqua;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30 solid coral;
+    margin: 60px;
+}
